@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 4.800451707327018,
+    "en_fr": 15.012141704706895,
+    "en_tl": 17.28043233918165,
+    "en_nl": 16.998489647016086
+  },
+  "test_match": {
+    "en_en_3": 4.790238409194373,
+    "en_tl_3": 17.510725228763963,
+    "en_nl_3": 17.232077377755516
+  },
+  "test_generate": {
+    "english_1_gram": "Ishl  kdeeI",
+    "english_2_gram": "I amme \"cheverorf",
+    "english_3_gram": "I am grannd his Obad gin",
+    "english_4_gram": "I Love: That\u2026",
+    "spanish_2_gram": "Soyema PRT a Mues Zzos ",
+    "spanish_3_gram": "Soy dechay tienta https",
+    "french_2_gram": "Je suis ye fa rritrieute li",
+    "french_3_gram": "Je suiscronts c'emagint tra"
+  }
+}
